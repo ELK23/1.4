@@ -1,5 +1,7 @@
 # 1.4
 
+# Задание 1
+
 ![image](https://github.com/user-attachments/assets/ffa31f41-dd1b-4598-892f-bb76ad1180ad)
 
 deployment.yaml
@@ -54,6 +56,7 @@ spec:
   type: ClusterIP
 
 ```
+# Задание 2
 
 nodeport-service.yaml
 
